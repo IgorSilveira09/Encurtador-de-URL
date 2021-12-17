@@ -1,0 +1,24 @@
+{
+  "name": "encurtador-de-url",
+  "version": "1.0.0",
+  "description": "URL Shortner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorSilveira09/Encurtador-de-URL.git"
+  },
+  "author": "Igor Silveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorSilveira09/Encurtador-de-URL/issues"
+  },
+  "homepage": "https://github.com/IgorSilveira09/Encurtador-de-URL#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
